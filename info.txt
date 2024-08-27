@@ -1,0 +1,9 @@
+#
+Name: 命日
+Path: 50976777
+Song: 50976777.ogg
+Picture: 50976777.png
+Chart: 50976777.json
+Level: Legacy-IN Lv.13
+Composer: LeaF
+Charter: CHunmilK
